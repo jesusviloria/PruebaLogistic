@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string-array name="week_days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+    <string name="N">NORTH</string>
+    <string name="NE">NORTH-EAST</string>
+
+    <string name="E">EAST</string>
+    <string name="SE">SOUTH-EAST</string>
+
+    <string name="S">SOUTH</string>
+    <string name="SW">SOUTH-WEST</string>
+
+    <string name="W">WEST</string>
+    <string name="NW">NORTH-WEST</string>
+
+    <string name="aviso_ubicacion">Your GPS seems to be disabled, do you want to enable it?</string>
+
+
+    <string name="error_ubicacion">Error getting location</string>
+    <string name="internet_problems">Connection error</string>
+
+    <string name="enable">Location enabled</string>
+    <string name="disable">Location disabled</string>
+
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+
+    <string name="aviso_ubicacion_no_precisa">The location may not be accurate, do you want to activate your location?</string>
+
+</resources>

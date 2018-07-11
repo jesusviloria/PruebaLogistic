@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tittle_size">20sp</dimen>
+
+    <dimen name="size_temperature_today">60sp</dimen>
+    <dimen name="size_weather_today">45sp</dimen>
+
+    <dimen name="size_icon_disponibilidad">16sp</dimen>
+
+    <dimen name="size_icon_refresh">16sp</dimen>
+
+    <dimen name="size_direction">18sp</dimen>
+    <dimen name="size_date">16sp</dimen>
+
+    <dimen name="size_icons_black">25sp</dimen>
+    <dimen name="size_text_icons_black">14sp</dimen>
+
+    <dimen name="size_day">14sp</dimen>
+    <dimen name="size_temperature">28sp</dimen>
+    <dimen name="size_weather_icon">22sp</dimen>
+
+
+
+
+</resources>

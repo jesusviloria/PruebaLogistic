@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    <string-array name="week_days">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+
+
+    <string name="N">NORTE</string>
+    <string name="NE">NORTE-ESTE</string>
+    <string name="E">ESTE</string>
+    <string name="SE">SUR-ESTE</string>
+    <string name="S">SUR</string>
+    <string name="SW">SUR-OESTE</string>
+    <string name="W">OESTE</string>
+    <string name="NW">NORTE-OESTE</string>
+
+    <string name="aviso_ubicacion">Tu GPS está desabilitado, quieres habilitarlo?</string>
+
+    <string name="error_ubicacion">Error al obtener ubicación</string>
+    <string name="internet_problems">Problemas con la conexión</string>
+
+    <string name="enable">Ubicación activada</string>
+    <string name="disable">Ubicación desactivada</string>
+
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+    <string name="aviso_ubicacion_no_precisa">La ubicación puede que no sea precisa, ¿Desea activar su ubicación?</string>
+
+</resources>
